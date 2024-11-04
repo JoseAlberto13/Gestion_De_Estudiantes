@@ -1,0 +1,115 @@
+{
+    "27217": {
+        "nombre": "Jose Alberto Figueroa Lucena",
+        "matricula": "321",
+        "carrera": "Analista Programador",
+        "cursos": [
+            "Introducci\u00f3n a la Programaci\u00f3n",
+            "Algoritmos y Estructuras de Datos",
+            "Base de Datos",
+            "Desarrollo Web"
+        ],
+        "calificaciones": [
+            {
+                "curso": "Introducci\u00f3n a la Programaci\u00f3n",
+                "nota": null
+            },
+            {
+                "curso": "Algoritmos y Estructuras de Datos",
+                "nota": null
+            },
+            {
+                "curso": "Base de Datos",
+                "nota": null
+            },
+            {
+                "curso": "Desarrollo Web",
+                "nota": null
+            }
+        ]
+    },
+    "21731": {
+        "nombre": "Christian Alexander Cifuentes",
+        "matricula": "322",
+        "carrera": "Analista Programador",
+        "cursos": [
+            "Introducci\u00f3n a la Programaci\u00f3n",
+            "Algoritmos y Estructuras de Datos",
+            "Base de Datos",
+            "Desarrollo Web"
+        ],
+        "calificaciones": [
+            {
+                "curso": "Introducci\u00f3n a la Programaci\u00f3n",
+                "nota": null
+            },
+            {
+                "curso": "Algoritmos y Estructuras de Datos",
+                "nota": null
+            },
+            {
+                "curso": "Base de Datos",
+                "nota": null
+            },
+            {
+                "curso": "Desarrollo Web",
+                "nota": null
+            }
+        ]
+    },
+    "20241": {
+        "nombre": "Juan Francisco Diaz Caro",
+        "matricula": "231",
+        "carrera": "Prevenci\u00f3n de Riesgos",
+        "cursos": [
+            "Qu\u00edmica General",
+            "Seguridad Laboral",
+            "Ergonom\u00eda",
+            "Gesti\u00f3n Ambiental"
+        ],
+        "calificaciones": [
+            {
+                "curso": "Qu\u00edmica General",
+                "nota": null
+            },
+            {
+                "curso": "Seguridad Laboral",
+                "nota": null
+            },
+            {
+                "curso": "Ergonom\u00eda",
+                "nota": null
+            },
+            {
+                "curso": "Gesti\u00f3n Ambiental",
+                "nota": null
+            }
+        ]
+    },
+    "9121": {
+        "nombre": "Jos\u00e9 Antonio Lucena",
+        "matricula": "124",
+        "carrera": "Computaci\u00f3n Inform\u00e1tica",
+        "cursos": [
+            "Matematicas Avanzadas"
+        ],
+        "calificaciones": [
+            {
+                "curso": "Matem\u00e1ticas Discretas",
+                "nota": null
+            },
+            {
+                "curso": "Sistemas Operativos",
+                "nota": null
+            },
+            {
+                "curso": "Redes de Computadoras",
+                "nota": null
+            },
+            {
+                "curso": "Inteligencia Artificial",
+                "nota": null
+            }
+        ]
+    }
+}

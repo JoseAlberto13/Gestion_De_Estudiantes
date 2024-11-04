@@ -1,0 +1,60 @@
+{
+    "123": {
+        "nombre": "Antonia Castro",
+        "matricula": "404",
+        "carrera": "Analista Programador",
+        "cursos": [
+            "Introducci\u00f3n a la Programaci\u00f3n",
+            "Algoritmos y Estructuras de Datos",
+            "Base de Datos",
+            "Desarrollo Web"
+        ],
+        "calificaciones": [
+            {
+                "curso": "Introducci\u00f3n a la Programaci\u00f3n",
+                "nota": null
+            },
+            {
+                "curso": "Algoritmos y Estructuras de Datos",
+                "nota": null
+            },
+            {
+                "curso": "Base de Datos",
+                "nota": null
+            },
+            {
+                "curso": "Desarrollo Web",
+                "nota": null
+            }
+        ]
+    },
+    "": {
+        "nombre": "",
+        "matricula": "",
+        "carrera": "Analista Programador",
+        "cursos": [
+            "Introducci\u00f3n a la Programaci\u00f3n",
+            "Algoritmos y Estructuras de Datos",
+            "Base de Datos",
+            "Desarrollo Web"
+        ],
+        "calificaciones": [
+            {
+                "curso": "Introducci\u00f3n a la Programaci\u00f3n",
+                "nota": null
+            },
+            {
+                "curso": "Algoritmos y Estructuras de Datos",
+                "nota": null
+            },
+            {
+                "curso": "Base de Datos",
+                "nota": null
+            },
+            {
+                "curso": "Desarrollo Web",
+                "nota": null
+            }
+        ]
+    }
+}
