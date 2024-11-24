@@ -1,0 +1,58 @@
+{
+  "estudiantes": {
+    "info_estudiantes": [
+      [
+        "Juanita",
+        "32323313-3",
+        "4324324"
+      ],
+      [
+        "Pedrito",
+        "5645654-3",
+        "6546456"
+      ]
+    ],
+    "cursos": [
+      [
+        "32323313-3",
+        [
+          "lenguaje"
+        ]
+      ],
+      [
+        "5645654-3",
+        [
+          "matematicas",
+          "lenguaje"
+        ]
+      ]
+    ],
+    "calificaciones": [
+      [
+        "32323313-3",
+        {
+          "matematicas": [
+            6.8
+          ],
+          "lenguaje": []
+        }
+      ],
+      [
+        "5645654-3",
+        {
+          "matematicas": [],
+          "lenguaje": []
+        }
+      ]
+    ]
+  },
+  "cursos": [
+    "matematicas",
+    "lenguaje",
+    "Ingles",
+    "Robotica"
+  ],
+  "sedes": [
+    "sede central"
+  ]
+}
